@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Baris Kasikci. All rights reserved.
 //
 // The idea is to rotate the entire array first
-// then to 
+// then to rotate individual sub parts based on the rotation count
 
 #include <iostream>
 
