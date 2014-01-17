@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F6767A6-C03D-4B5D-A08D-F715D19966CD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QuickSort</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>076AFE73-3A4C-4E51-8236-18F25411C7ED</key>
+		<string>ssh://github.com/kasikci/xcodesnippets.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QuickSort/QuickSort.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>076AFE73-3A4C-4E51-8236-18F25411C7ED</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/kasikci/xcodesnippets.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>076AFE73-3A4C-4E51-8236-18F25411C7ED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>076AFE73-3A4C-4E51-8236-18F25411C7ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>projects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
